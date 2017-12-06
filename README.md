@@ -19,6 +19,14 @@ Small soft to display pictures on top of all windows.
 ### Zoom
 - Two-finger **scroll** up and down
 - Numkey **+** and **-**
+- Press **Spacebar** to reset the original size of the image
+
+### Copy image to clipboard
+- Two-finger click on the image
+
+### Close image
+- Press **Escape**
+- Double-click on the image
 
 ## Convenient use:
 ### Combined with your screenshot tool
